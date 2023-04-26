@@ -35,10 +35,7 @@ public class ServletConTextTest implements Servlet {
 
 
 
-
     }
-
-
 
     @Override
     public ServletConfig getServletConfig() {

@@ -44,10 +44,6 @@ public class HelloServlet implements Servlet {
         System.out.println("first = " + first);
     }
 
-
-
-
-
     @Override
     public void destroy() {
 
